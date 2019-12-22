@@ -10,7 +10,8 @@ class App extends React.Component {
       <div>
         <Header />
         <div className="container">
-          <StoreSignUp />
+          {/* <StoreSignUp /> */}
+          <Home />
         </div>
       </div>
     )
